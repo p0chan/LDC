@@ -9,7 +9,7 @@ jpgheight, jpgwidth, jpgchannel = img_color.shape
 
 
 img_margin = 10
-sampling = 16
+sampling = 8
 palZoom = 1
 kwyval = 1
 omegaRadian = 150*math.pi/180
